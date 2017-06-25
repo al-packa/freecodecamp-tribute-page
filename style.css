@@ -1,0 +1,41 @@
+header {
+  text-align: center;
+  color: white;
+  background: url("https://www.jackson-pollock.org/images/paintings/convergence.jpg");
+  background-size: cover;
+}
+h1 {
+  font-size: 50px;
+  font-family: sans-serif;
+  font-weight: bold;
+}
+.head-div { 
+  background-color: rgba(0, 0, 0, 0.7);
+  padding: 20px;
+  margin: auto;
+}
+.top-div {
+  background-color: #f8f8f8;
+  margin: 50px 50px 5px 50px;
+}
+.full-page {
+  background-color: #f8f8f8;
+  margin: 10px 50px 5px 50px;
+}
+header p {
+  font-size: 28px;
+}
+.bio-par {
+  padding: 30px;
+  font-size: 18px;
+}
+.jackson-pollock {
+  border: 30px solid #f8f8f8
+}
+.bottom {
+  padding: 20px;
+  font-size: 12px;
+  text-align: center;
+  margin: 5px 50px 50px 50px;
+  background-color: #f8f8f8;
+}
